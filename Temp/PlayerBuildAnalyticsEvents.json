@@ -1,0 +1,26 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "5a4327de1f77042428c47c6c9d64614b",
+        "build_player": 804,
+        "preprocess_player": 8,
+        "produce_player_script_assemblies": 436,
+        "build_scripts_dlls": 4,
+        "postprocess_built_player": 274,
+        "node_summary_table": []
+      },
+      "version": 1
+    },
+    {
+      "type": "unityLinkerData",
+      "msg": {
+        "build_event_id": "5a4327de1f77042428c47c6c9d64614b",
+        "node_executed": false,
+        "option_rule_set": "Copy"
+      },
+      "version": 1
+    }
+  ]
+}
