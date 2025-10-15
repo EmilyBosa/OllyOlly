@@ -36,6 +36,9 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: Menu
     methodName: PlayGame
+  - assembly: Assembly-CSharp
+    fullTypeName: Menu
+    methodName: QuitGame
   sceneClasses:
     Assets/Scenes/GameScreen.unity:
     - Class: 1
@@ -75,10 +78,6 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 10540}
-    - Class: 114
-      Script: {instanceID: 10746}
-    - Class: 114
       Script: {instanceID: 13070}
     - Class: 114
       Script: {instanceID: 32854}
@@ -115,6 +114,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 8962}
     - Class: 114
       Script: {instanceID: 10078}
+    - Class: 114
+      Script: {instanceID: 10540}
+    - Class: 114
+      Script: {instanceID: 10746}
     - Class: 114
       Script: {instanceID: 10974}
     - Class: 114

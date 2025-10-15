@@ -2,6 +2,7 @@
 	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
 		<type fullname="Menu">
 			<method name="PlayGame"/>
+			<method name="QuitGame"/>
 		</type>
 	</assembly>
 </linker>
