@@ -21,7 +21,7 @@ public class Menu : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = true;
 
-        Debug.Log("✅ Cursor locked in center but visible");
+        Debug.Log("Cursor locked in center but visible");
     }
 
     public void QuitGame()
