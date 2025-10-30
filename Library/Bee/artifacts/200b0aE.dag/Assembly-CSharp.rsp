@@ -405,8 +405,15 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.7f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.7f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.7f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/CharacterMovement.cs"
+"Assets/Scripts/Interactable.cs"
+"Assets/Scripts/InventoryMenu.cs"
+"Assets/Scripts/ItemSpawner.cs"
 "Assets/Scripts/Menu.cs"
-"Assets/Scripts/Movement.cs"
+"Assets/Scripts/PauseMenu.cs"
+"Assets/Scripts/PlayerHealth.cs"
+"Assets/Scripts/PlayerInteraction.cs"
+"Assets/Scripts/RadiationZone.cs"
 -langversion:9.0
 /deterministic
 /optimize+
