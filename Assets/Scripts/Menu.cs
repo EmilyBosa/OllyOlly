@@ -8,8 +8,9 @@ public class Menu : MonoBehaviour
 
     private IEnumerator StartGame()
     {
-        SceneManager.LoadScene("GameScreen");
-        yield return null; // wait one frame for scene load
+        // This replaces the current scene instead of stacking them
+        SceneManager.LoadScene("GameScreen", LoadSceneMode.Single);
+        yield return null;
 
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;

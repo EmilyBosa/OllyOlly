@@ -53,6 +53,7 @@
     <Compile Include="Assets/Scripts/Interactable Objects/Interactable.cs" />
     <Compile Include="Assets/Scripts/PlayerHealth.cs" />
     <Compile Include="Assets/Scripts/Inventory/InventorySystem.cs" />
+    <Compile Include="Assets/Scripts/EndMenu.cs" />
     <Compile Include="Assets/Scripts/Interactable Objects/ItemSpawner.cs" />
     <Compile Include="Assets/Scripts/Inventory/InventoryDragHandler.cs" />
     <Compile Include="Assets/Scripts/Menu.cs" />
