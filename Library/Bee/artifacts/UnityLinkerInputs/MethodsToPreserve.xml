@@ -1,7 +1,18 @@
 <linker>
 	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="EndMenu">
+			<method name="QuitToMenu"/>
+			<method name="Respawn"/>
+		</type>
 		<type fullname="Menu">
 			<method name="PlayGame"/>
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="PauseMenu">
+			<method name="QuitGame"/>
+			<method name="Resume"/>
+		</type>
+		<type fullname="WinScreenUI">
 			<method name="QuitGame"/>
 		</type>
 	</assembly>

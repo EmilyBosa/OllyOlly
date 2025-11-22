@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScreen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: ac5440f0eb6e449d5827a49e46cdae2b
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: f2d36f953b5ca476ab9d447fad4b8c12
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
