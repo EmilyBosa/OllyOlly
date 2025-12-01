@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 48251
+  controlID: 52324
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 48252
+  controlID: 52325
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -178,7 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 48253
+  controlID: 52326
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -245,8 +245,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 22fbffff
+      m_LastClickedID: -1246
       m_ExpandedIDs: 6851fbff8051fbffac52fbffb252fbff6462fbff7862fbfff66afbff0e6bfbff666cfbff6c6cfbfff67cfbff0a7dfbff648afbff7e8afbffda8bfbffe68bfbffd69cfbfff09cfbff68a3fbff80a3fbffdca4fbffe8a4fbffd8b5fbfff2b5fbff5ac0fbff72c0fbffcec1fbffdac1fbffcad2fbffe4d2fbffd013fcffe813fcff4015fcff4615fcff3026fcff4426fcff26d4fcff360afdffb822fdff4824fdffa424fdfff624fdffba4ffdff74f8ffffaafaffff1cfbffff22fbffff3c7e00003a7f0000b07f0000e4810000849b0700a49b0700bc9b0700c2fe08003603090054d0090048d109006cd30900aa5d0a0028be0a00ead70a0092db0a003e040b00b2170b00461a0b002a610b00f4240c0016280c00c62c0c00
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -291,8 +291,8 @@ MonoBehaviour:
     y: 0
     width: 393
     height: 468.5
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -842,11 +842,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.00076194626, y: 0.99879885, z: -0.016481658, w: 0.04617162}
     speed: 2
-    m_Value: {x: 0.00078666664, y: 0.9987269, z: -0.016480472, w: 0.047669694}
+    m_Value: {x: 0.0007619462, y: 0.9987988, z: -0.016481658, w: 0.04617162}
   m_Size:
     m_Target: 177.40236
     speed: 2
-    m_Value: 177.26941
+    m_Value: 177.40236
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1026,7 +1026,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1036,15 +1036,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/emilybosa/Defcon
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a28d0000
-    m_LastClickedID: 36258
+    m_SelectedIDs: a08d0000
+    m_LastClickedID: 36256
     m_ExpandedIDs: 00000000a08d0000a28d0000a48d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1100,9 +1100,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 22fbffff
+    m_LastClickedInstanceID: -1246
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000c4ce0100a666010000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

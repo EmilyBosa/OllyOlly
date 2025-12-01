@@ -30261,7 +30261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd099179080e744a0857b703f8764426, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CharacterMovement
-  walkSpeed: 15
+  walkSpeed: 10
   runSpeed: 40
   jumpForce: 7
   cameraTransform: {fileID: 943487345}
